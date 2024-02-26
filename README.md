@@ -92,12 +92,8 @@ print("Polynomial trend equation y=%.2f+%0.2fx+%.2fx^2"%(a,b,c))
 ### A - LINEAR TREND ESTIMATION
 ![306984016-f2f77c86-6a39-4d58-ac25-52af6c6172ec](https://github.com/21003698/TSA_EXP2/assets/93427522/4f2cf72b-7928-4b5d-8b9d-90bd13d47b52)
 
-![306984016-f2f77c86-6a39-4d58-ac25-52af6c6172ec](https://github.com/21003698/TSA_EXP2/assets/93427522/fc181f46-c6f7-4721-9b9b-b7fc93f6f933)
-
 ### B- POLYNOMIAL TREND ESTIMATION
 ![306984396-123dc353-d166-42e2-83ad-798abc15ff6d](https://github.com/21003698/TSA_EXP2/assets/93427522/a004067a-7cc9-4ff7-b80b-81c6b7c6956b)
-
-![306984396-123dc353-d166-42e2-83ad-798abc15ff6d](https://github.com/21003698/TSA_EXP2/assets/93427522/cad07123-6ad0-4f0f-ae69-f8aa92849c77)
 
 ### RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
