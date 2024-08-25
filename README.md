@@ -1,4 +1,4 @@
-Name:Deepika P
+Name:Deepika P\
 Reg no:212223240024
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 ## Date: 23.02.2024
